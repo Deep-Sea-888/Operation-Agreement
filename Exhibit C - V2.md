@@ -1,15 +1,13 @@
-# Exhibit C - V2
-
 ## The Tangle Community Treasury Committee Specification
 
 *This is the full specification for all operational processes and ordinary and usual decisions concerning the business affairs of the Tangle DAO LLC while operating the Tangle Community Treasury grant committee. Detailed rules and procedures are defined here.*
 ---
 
-##1. Introduction Tangle Community Treasury Committee - Operation Specification
+## 1.0 Introduction Tangle Community Treasury Committee - Operation Specification
 
 The Tangle Community Treasury committee was established in the Governance Votes [SGP-005](https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576), the committee members got selected in [SGP - 001](https://govern.iota.org/t/sgp-0001-shimmer-community-grant-committee-lead-selection/1544/1) and [SGP - 002](https://govern.iota.org/t/sgp-0002-shimmer-community-grant-committee-grant-reviewer-selection/1546) by the Shimmer Token holders. A follow-up community vote was conducted ‘n’ (hyperlink to vote) months after the grant committee operated a couple of months, and they proposed some updates and revisions they found would help create a more efficient and beneficial framework. The specification below is the legal, operational document in which the Tangle Community Treasury grant committee and Tangle DAO LLC members must manage and operate any assets the IOTA & Shimmer community allocates through a purpose-bound governance vote.
 
-## Definitions  
+## 2.0 Definitions  
 
 In this Agreement: 
  
@@ -21,22 +19,24 @@ In this Agreement:
 
 **“Tangle DAO LLC”** means the legal entity formed in The Republic of the Marshall Islands, which offers liability protection to the Tangle Community Treasury grant committee and community. The initial formation of the LLC entity is focused on managing the Tangle Community Treasury grant committee. However, it is not limited to and can act as an entity to manage community asset purpose-bound allocations.
 
-## 4. Specification
+## 3.0 Specification
 
 ### _Mission of the Tangle Community Treasury Committee:_
 
 _A community-led committee-based grant program to support the Shimmer and IOTA network while empowering the ecosystems_
 
-### 4.1 The Committee
+### 3.1 The Committee
 
-**The committee will be set up with five members**.
+The committee will be set up with five members.
 
-One of them is the **Program Lead**, which, besides reviewing funding requests, takes care of all administrative tasks and reporting and coordinates the committee members’ work.
+#### 3.1.1 One of them is the *Program Lead*, which, besides reviewing funding requests, takes care of all administrative tasks and reporting and coordinates the committee members’ work.
 
 - The Lead also promotes the program, identifies directions for funding, and has a thought leadership role in guaranteeing the program’s success.
 - The Lead is directly involved in grant reviews and decides which team of reviewers should work on a proposal.
 - Further, an important part is ongoing coordination with the second ecosystem funding program run by the Tangle Ecosystem Association and the Shimmer Growth Committee to ensure effective alignment in the goals and directions of the community grants program.
-- The Lead organizes the regular public meetings of the Grant Committee and takes care of reporting for financial transparency and fund usage.
+- The Lead will organize weekly treasury working meetings with the co-lead and reviewers.
+- The Lead will ensure all financial and asset accounting is completed in a timely and fully transparent maner. All fund or asset usage by the Tangle DAO LLC and Tangle Community Treasury must always be shown publicly.
+- The Lead will complete quarterly transparent reports and publish them to the community.
 - The Lead will act as the first public contact for anyone that wants to approach the committee besides funding requests.
 - The Program Lead will be contracted by Marshal Island DAO LLC (to be set up), which acts as the legal body of the program and offers limited liability and the needed legal structure to ensure a safe operation.
 - To establish this contract, the Program Lead shall have a legal entity (company, LLC, GmbH, etc.) set up in its home jurisdiction that will engage in agreements and manage the Tangle DAO LLC consultant in the Marshall Islands that registers and maintains the LLC.
@@ -45,7 +45,7 @@ One of them is the **Program Lead**, which, besides reviewing funding requests, 
 - The program lead will have 30 days of paid vacation that they may take at their leisure. The program lead must manage the treasury operations and adequately communicate with the co-lead and committee to ensure daily operations can continue smoothly and effectively. Their vacation should not impact the treasury grant committee’s daily activities negatively. The program lead should, if possible, be able to be reached in an emergency.
 - The program lead will also have paid national holidays for their country; for example, if the Program Lead was registered in Germany, they would have holidays such as New Year’s Day, Ascension Day, Whit Monday, German Unity Day, and others.
 
-**The 4 Grant Reviewers will process funding requests part-time**.
+#### 3.1.2 The *Grant Reviewers* will process funding requests part-time.
 
 - The committee operates a 3 of 5 Gnosis multi-signature wallet that requires 3 out of 5 signatures for any operation (like spending funds or adding or removing members).
 - The Lead will assign reviewers to work on proposals based on their qualifications, experience, and availability.
@@ -55,21 +55,23 @@ The grant reviewers will be compensated by an amount stipulated in the annual go
 - The committee members will select one of the four reviewers as the **Co-Lead**. The Co-Lead acts on behalf of the Committee Lead in cases of sickness, holidays, or leaving. If the Lead resigns, the Co-Lead continues the operation and organizes an election of a new Lead through a community vote.
 - If the Programm Lead is unavailable/sick/on leave and the Co-Lead needs to fill this position, the Co-Lead will be compensated for this extra time at the same rate the program lead receives and can invoice up to 40 hrs per week.
 
-**The Tangle Community Treasury Grant Committee Term** The grant committee will be approved by the community through a governance vote annually for 12 months. The term will start on the day when the Firefly vote (Phase 3) results to continue the Tangle Community Treasury grant committee and those members chosen by the community. Each year before the end of the approval period, the below decision shall be made by a community governance vote.
+### 3.2 The Tangle Community Treasury Grant Committee Term
+
+#### 3.2.1 The grant committee will be approved by the community through a governance vote annually for a period of 12 months. The term will start on the day when the Firefly vote (Phase 3) results to continue the Tangle DAO LLC and/or Tangle Community Treasury and the chosen committee members. Each year before the end of the approved operating  period, the below decisions shall be made by a community governance vote.
 
 - The community will decide to continue or end the Tangle DAO LLC and the Tangle Community Treasury grant committee through a community governance vote that the program lead or co-lead will initiate. This governance vote must be initiated a minimum of 6 weeks before the end of the approved period the committee is authorized to operate.
 - If the community decides not to continue the Tangle Community Treasury grant committee or Tangle DAO LLC, the program and/or co-lead will work together to enable a graceful shutdown of operations and transfer all assets back to the community-controlled wallet addresses. 
 - Further, the program and co-lead will ensure all legal obligations, including documentation, forms signed, and any registration fees or required taxes, are paid, and no legal obligations remain with the Marshall Islands. The Tangle Community Treasury or Tangle DAO LLC shall meet any legally bound contractual obligations, and any approved grants shall be funded by the Tangle DAO LLC or Tangle Community Treasury’s assets. The Tangle DAO LLC shall secure all costs for an operational shutdown before transferring all assets back to the community-controlled address or addresses. Suppose there are non-tokenized assets such as real tangible assets or fiat in Tangle DAO LLC bank accounts. In that case, such investments will be transferred back to the community as approved by a community governance vote.
 - If the community votes to continue the Tangle Community Treasury and/or Tangle DAO LLC, the program and/or co-lead will support a smooth transition with the current or newly elected committee.”
 
-**The community may replace members** during the program’s period through a governance vote following the process described in the [Shimmer Governance Framework](./the-shimmer-governance-framework.md).
+#### 3.2.2 The community may replace members during the program’s period through a governance vote following the process described in the [Shimmer Governance Framework](./the-shimmer-governance-framework.md).
 
 - Need for replacements may occur if committee members cannot dedicate sufficient time to the program. If they ask for a replacement for personal reasons, or if the community has valid concerns about the motivation and professionality of a member or has any proof of fraud, betrayal, or violation of terms.
 - Grant reviewers are free to leave the position based on the terms stated in their contract. The grant receiver shall give a 4-week before leaving the committee.
 - In case of serious violation of terms of the contract, like a breach of NDA, insider trading, or not disclosed conflict of interest, reviewers will be immediately discarded from the committee position by the program or co-lead and removed as signers of the multi-sig wallet.
 - Replacement positions will be offered to the runner-up candidates of the committee selection process (Phase 3 results).
 
-### Requirements for Committee members:
+### 3.3 Requirements for Committee members:
 
 - All committee members will do KYC to reveal and verify their identity and sign a legally binding contract (employment or service provider) with the Tangle DAO LLC.
 - All committee members must reveal potential conflicts of interest to become committee members. They need to indicate if they currently are or have been in the past part of a team in a DLT project or have other connections or affiliations to projects or groups that could cause a conflict of interest. A conflict of interest policy needs to be accepted and signed.
@@ -79,20 +81,20 @@ The grant reviewers will be compensated by an amount stipulated in the annual go
 - All members will sign NDAs and Insider Trading disclosures.
 - All Committee members are required to operate the Gnosis Multi-Signature Wallet with a Ledger Nano or similar device.
 
-### Selection process for committee members and the Program Lead:
+### 3.4 Selection process for committee members and the Program Lead:
 
 Each year the community will choose to either approve the committee members to continue operating the Tangle Community Treasury for another year or decide to have elections for new committee members through an electoral process. If the community chooses to have elections the [the selection process specification](https://govern.iota.org/t/community-grant-committee-selection-proccess-specification/1436) that describes the community-driven selection process will be followed.
 
 
-### 4.2 Funding Priorities
+## 4.0 Funding Priorities
 
-#### Funding objectives:
+### 4.1 Funding objectives:
 
 - To increase the Shimmer and/or IOTA network’s utility and attract new builders.
 - To promote Shimmer & IOTA and make them more visible and attractive in the DLT space.
 - To enable projects to establish successful and profitable business models on Shimmer and or IOTA.
 
-#### Target areas for grant funding:
+### 4.2 Target areas for grant funding:
 
 Below is a general list of target areas for the Shimmer network. If the IOTA Foundation or community evolves the network to grow in a new direction, the committee will support such new development and progress visions.
 
@@ -107,7 +109,7 @@ Below is a general list of target areas for the Shimmer network. If the IOTA Fou
 - Events, Community meetups, and hackathons
 - Bounties
 
-### Guiding principles for funding decisions:
+## 5.0 Guiding principles for funding decisions:
 
 1. A proposal must be relevant to the Shimmer and/or IOTA network and its ecosystem.
 2. A proposal that does not segregate individuals, organizations, or communities based on sex, race, color, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority or majority, property, birth, disability, age or sexual orientation.
@@ -119,11 +121,11 @@ Below is a general list of target areas for the Shimmer network. If the IOTA Fou
 8. A proposal that creates any conflict of interest from members of the proposing team or committee members must be reported to the committee Lead. Committee members with conflicts of interest cannot process, comment, or vote on a proposal.
 9. Any attempts of Bribery or offer of future payments, token ownership, or compensations/gifts of any form to committee members will immediately cancel a proposal process. Accepted bribes by committee members will lead to the immediate removal of the members from the committee.
 
-### 4.3 Application and approval process:
+## 6.0 Application and approval process:
 
-**Easy and quick access to funding** is essential to a successful grant program. Numerous examples in the space have shown that this is one of the most critical reasons teams consider when choosing a network.
+Easy and quick access to funding is essential to a successful grant program. Numerous examples in the space have shown that this is one of the most critical reasons teams consider when choosing a network.
 
-### Funding Tiers and requirements:
+### 6.1 Funding Tiers and requirements:
 
 As long as the market cap of Shimmer is depressed no grants should be given out to avoid immediate depletion of the Treasury. For this reason, if the market cap of Shimmer is ***below 50 Million USD***, then no funding will be approved. When the market cap is above 50 million USD, the below tier structure shall be followed.
 
@@ -137,13 +139,13 @@ As long as the market cap of Shimmer is depressed no grants should be given out 
   - Suppose the grants committee supports that the community shall fund a Tier 4 application; it forwards this application to the community as a proposal in the governance forum and asks for approval by the community in a vote by all Shimmer token holders.
   - The committee lead will submit the proposal in the governance forum and includes the project team’s full proposal and a detailed statement by the grant committee on why it recommends funding this proposal. Such a proposal will enter the governance process as a Phase 2 Poll in the Governance Forum.
 
-### 4.4 Application and scoring process
+### 6.2 Application and scoring process
 
 Grant receivers shall fill out the online [web form](https://www.tangletreasury.org/airtable-proposal-form) found on www.TangleTreasury.org. Additional grant submitters should also submit an attached proposal. The committee provides a [template](https://docs.google.com/document/d/1thG3OukVMz9UMxlWHGMdUfmMizI0n1iA/edit) for any submitters that don’t have a custom form themselves.
 
-### **Grant evaluation scoring system:**
+#### Grant evaluation scoring system:
 
-**Grant reviewers will use a scoring system to evaluate funding proposals.**
+Grant reviewers will use a scoring system to evaluate funding proposals.
 
 | **Scoring Qualities**                         | Summary                                                                                                                                                     | **Guiding Questions**                                                                                                                                                                              | **Rating**                                                                                                                         |  
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | 
@@ -154,36 +156,38 @@ Grant receivers shall fill out the online [web form](https://www.tangletreasury.
 | **Overall Quality & Originality of the Idea** | Values the uniqueness of the project and its potential to contribute something new and valuable to the crypto and Web3 ecosystem. | How unique is the project’s idea or solution? Does the project offer a novel approach or solution that can significantly contribute to the crypto and Web3 ecosystem? How does the project differentiate itself from similar initiatives in the ecosystem? |Rating (1 to 4)    |                        |
 |                                               |                                                                                                                                                                                |                                                                                                                                                                                                  |                                                                                                                        Total: x/20                     |           
 
-**A project should reach a particular score to be eligible for certain funding Tiers:**
+A project should reach a particular score to be eligible for certain funding Tiers:
 
-- **Tier 4** (Funding budget 200.000 - 500.000 USD) - required score **minimum 17 of 20**
-- **Tier 3** (Funding budget 50.000 - 200.000 USD) - required score **minimum 15 of 20**
-- **Tier 1 & 2** (Funding up to 50.000 USD) - required score **minimum 13 of 20**
+- **Tier 4** (Funding budget 200.000 - 500.000 USD) - required score *minimum 17 of 20*
+- **Tier 3** (Funding budget 50.000 - 200.000 USD) - required score *minimum 15 of 20*
+- **Tier 1 & 2** (Funding up to 50.000 USD) - required score *minimum 13 of 20*
 
-### Possible Extra Scoring Points:
+### 6.3 Possible Extra Scoring Points:
 
-- Projects offer 0,5% of the project’s total token supply to go to the community Treasury: **One extra point can be granted.**
-- Projects offer 1% of the total token supply to go to the community Treasury: **Two extra points can be granted.**
-- Projects offer more than 1,5% of the project’s total token supply to go to the community Treasury: **Three extra points can be granted.**
+- Projects offer 0,5% of the project’s total token supply to go to the community Treasury: *One extra point can be granted.*
+- Projects offer 1% of the total token supply to go to the community Treasury: *Two extra points can be granted.*
+- Projects offer more than 1,5% of the project’s total token supply to go to the community Treasury: *Three extra points can be granted.*
 
-**This does not imply that automatically such an offer will lead to granting the extra points. Granting these additional points is decided on a case-by-case basis.**
+*This does not imply that automatically such an offer will lead to granting the extra points. Granting these additional points is decided on a case-by-case basis.*
 
 The scoring system is a guideline for reviewers. It may only sometimes apply to some kinds of projects.
 
 We reserve the ability to place specific projects into different tiers even if point scoring disagrees. Still, this scoring system should apply to the majority of projects.
 
+### 6.4 Grant Transparency
+
 All grants will be shown publicly and transparently to the community through the www.TangleTreasury.org website when they are under review and their results upon completion when the committee finishes its assessment. All grant receivers and community members are free to reach out to the committee, particularly the Program lead, with questions or discussions at any time”.
 
 The Tangle DAO LLC will transparently host a database through the www.TangleTreasury.org website. On this or any future website, all proposals shall be transparently listed, and a running accounting sheet that can be publicly audited to show the Tangle Community Treasuries assets and value transactions.
 
-### Complaint process:
+## 7.0 Complaint process:
 
 Should a project feel it has been treated unjustly by a decision of the grant committee, it should first contact the Programm Lead and try to resolve the issue. Suppose the project representative does not reach a successful resolution. In that case, they can open a complaint thread in the Governance forum at www.govern.iota.org and explain the reasons for the complaint while being professional and respectful to the community.
 If a Grant Reviewer is also a Governance Forum Moderator, this moderator is excluded from any moderation activities in this specific forum conversation.
 
-### 4.5 The Budget
+## 8.0 The Budget
 
-**Budget for 12 months of operation**
+### 8.1 Budget for 12 months of operation
 
 - The Budget for the committee spending during 12 months is decided annually by the community through a governance vote. All disbursements from the community treasuries to the Tangle DAO LLC will be listed in public address and a financial audit log on the www.TangleTreasury.org website.
 - The committee will manage the assets provided to the Tangle DAO LLC by a purpose-bound allocation from the community using a MultiSig Wallet with a 3 of 5 signature approval process.
@@ -194,7 +198,7 @@ If a Grant Reviewer is also a Governance Forum Moderator, this moderator is excl
 - The Program or co-lead will promptly create public quarterly transparent reports and issue them to the community.
 - Any excess assets left in the Committee’s MultiSig Wallets at the end of the committee’s term determined by the community will be sent back to the Community Treasury wallet by the committee members in case the community decides not to continue the program.
 
-### 4.6 The legal entity
+## 9.0 The legal entity
 
 The committee members must have a legal status to be aligned with all regulations and operate safely and legally.
 
@@ -204,9 +208,9 @@ The committee members must have a legal status to be aligned with all regulation
 
 - All committee members, backups, or consultants that conduct grant reviews for the Treasury will KYC with the treasuries approved KYC provider. All members will be held responsible for any misbehavior occurring based on their contractual terms.
 
-### 4.7 Program success metrics
+## 10.0 Program success metrics
 
-**Measurable criteria:**
+Measurable criteria:
 
 - Growth in the number of grants applications received quarter-over-quarter
 - Growth in the number of projects, ideas, and events funded
@@ -215,12 +219,13 @@ The committee members must have a legal status to be aligned with all regulation
 
 The committee will provide reports on these metrics every three to six months.
 
-### 4.8 Changes to this Framework
+## 11.0 Changes to this Framework
 
 If the community decides to approve the committee for another year of operation, the members of the Treasury committee can then begin daily activities. Even if we now think that we have designed a comprehensive and very well-working set of rules under which the committee members can carry out operating the treasury operations and manage the Tangle DAO LLC, the committee members may conclude that specific points described in this Framework need revising to function better and more effectively.
+
 The committee members will be the only ones who can correctly identify the need for such changes. Therefore, we would limit the group of Persons that can propose changes to the specifications described in the document to the five elected Committee members.
 
-- **The following points are open to changes by all community members via the official Shimmer Governance process:**
+The following points are open to changes by all community members via the official Shimmer Governance process:
 
    - Proposal to replace/remove the Programm Lead  
    - Proposal to replace/remove a Grant Reviewer
@@ -230,6 +235,6 @@ The committee members will be the only ones who can correctly identify the need 
    - Proposal to add additional funding to the budget of the Tangle Community Treasury grant committee throughout the year
    - Proposal to manage additional assets for the community by a purpose-bound directive given to the Tangle DAO LLC 
 
-- All changes to other points described under **Specification (Point 4.1 - 4.8)** of this document can only be proposed by a member of this Shimmer Community Treasury Committee (Programm Lead and the four elected Grant Reviewers) through a public proposal in the Governance forum following the process laid out in the Shimmer Governance Framework.
+All changes to other points described under this specification of this document can only be proposed by a member of this Shimmer Community Treasury Committee (Programm Lead and the four elected Grant Reviewers) through a public proposal in the Governance forum following the process laid out in the ***Shimmer Governance Framework***.
 
 
