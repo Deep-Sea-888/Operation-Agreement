@@ -15,7 +15,12 @@ In the months since its inception in April 2023, the community-elected Shimmer G
 
 This proposed treasury committee management framework is proposed to revise the specification with the lessons learned and allow the IOTA Community treasury to be managed. This specification is an interim proposal until the current committee member’s terms have completed their first term in March 2024. This framework will be re-voted upon with new committee member elections.
 
+![](https://hackmd.io/_uploads/S1H49Tjnh.png)
+
+The above diagram shows a high level overview of the sctructure of the Tangle DAO LLC and associated community DAOs.
+
 The specification below is the legal, operational document in which the Tangle Community Treasury grant committee and Tangle DAO LLC members shall manage and operate any assets the IOTA and/or the Shimmer community allocates through a purpose-bound governance vote.
+
 
 ## 2.0 Definitions  
 
@@ -23,19 +28,19 @@ In this Agreement:
 
 **“Committee Members”** The elected members act as program lead, co-lead, and reviewers of the community treasuries. Each community (e.g., the IOTA  or Shimmer community) elects members to represent them to manage their treasuries. Committee members can represent both communities if both communities elect them.
  
-**“IOTA Community”** Any holders of the IOTA tokens at the time of a governance vote.
+**“IOTA Community”** Within the context of this document the IOTA Community encompassess individuals that have voting power through holding IOTA tokens and whom which can take part in community governance votes.
 
-**“IOTA Community Treasury”** The IOTA Community Treasury consists of 54,896,344 MIOTA (54,89 Ti), which was voted on by the community to “Build” with and create a community treasury to be managed by and for the IOTA Community.
+**“IOTA Community Treasury”** The IOTA Community Treasury consists of 54,896,344 MIOTA (54,89 Ti), which was voted on by the community to “Build” with and create a community treasury to be managed by and for the IOTA Community. The medium article [Burn vs. Build](https://blog.iota.org/community-treasury-vote-final-results/) explains the history and final results of the IOTA community vote.
 
-**“Purpose Bound or Purpose Bound Allocation”** means that the community may decide to form new DAOs or support funding arrangements above and beyond the Tangle Community Treasury beyond the Tangle Community Treasuries grant program activities and committees. Some decisions may require a legal entity to sign contracts, issue funding, or other unknown reasons. Such a decision by the community would only be completed through a community governance vote. Upon which the IOTA and or Shimmer Community funds would be transferred to the Tangle DAO LLC. These funds would be transferred with a specific purpose bound, such as managing a treasury through a committee-led program. However, it can be any legal purpose bound by the communities. The committee, which manages the Tangle DAO LLC, shall govern the assets allocated by the community only for the purpose bound by the governance vote.
+**“Purpose Bound or Purpose Bound Allocation”** means that the community may decide to form new DAOs or support funding arrangements above and beyond the Tangle Community Treasury  grant program activities and committees. Some decisions may require a legal entity to sign contracts, issue funding, or other unknown reasons. Such a decision by the community would only be completed through a community governance vote, upon which such IOTA and or Shimmer Community funds would be transferred to the Tangle DAO LLC. These funds would be transferred with a specific purpose bound, such as managing a treasury through a committee-led program. However, it can be any legal purpose bound by the communities. The committee, which manages the Tangle DAO LLC, shall govern the assets allocated by the community only for the purpose declared by the governance vote.
 
-**“Shimmer Community”** Any all holders of the Shimmer tokens at the time of a governance vote.
+**“Shimmer Community”** Within the context of this document the Shimmer Community encompassess individuals that have voting power through holding Shimmer tokens and whom which can take part in community governance votes.
 
-**“Shimmer Community Treasury”** means the shimmer tokens ($SMR) minted during the network’s initial launch that was designated and managed by the Shimmer community.
+**“Shimmer Community Treasury”** means all currently not yet purpose-bound and therefore unallocated Assets that remain from the initially created 10%supply (181,362,051 SMR) that belong to the Shimmer Token holders (reference: 181,362,051 SMR).
 
-**“Tangle Community Treasury”** means assets to include $SMR, $IOTA, or other assets allocated by the IOTA & Shimmer community to be managed by the Tangle Community Treasury grant committee. 
+**“Tangle Community Treasury”** means assets to include $SMR, $IOTA, or other assets allocated by the IOTA & Shimmer community to be managed by the Tangle DAO LLC. 
 
-**“Tangle Community Treasury Grant Committee”** means the committee members elected by the IOTA & Shimmer community through a governance vote to manage the Tangle Community Treasury assets. Specific members may be designated to oversee specific treasuries only or both (e.g., the IOTA Community Treasury funds or the Shimmer Community Treasury funds)
+**“Tangle Community Treasury Grant Committee”** means the grant committee members elected by the IOTA & Shimmer community through a governance vote to manage the Tangle Community Treasury assets. Specific members may be designated to oversee specific treasuries only or both (e.g., the IOTA Community Treasury funds or the Shimmer Community Treasury funds)
 
 **“Tangle DAO LLC”** means the legal entity formed in The Republic of the Marshall Islands, which offers liability protection to the Tangle Community Treasury grant committee and community. The initial formation of the LLC entity is focused on managing the Tangle Community Treasury grant committee. However, it is not limited to and can act as an entity to manage community assets through purpose-bound allocations.
 
@@ -43,55 +48,51 @@ In this Agreement:
 
 ### _Mission of the Tangle Community Treasury Grant Committee:_
 
-_A community-led committee-based grant program to support the Shimmer and IOTA network while empowering the ecosystems_
+_A community-led and committee-based grant program to support the Shimmer and IOTA network while empowering the ecosystems_
 
 ### 3.1 The Committee
 
-The committee will be set up with five members to manage both funding allocations by the Shimmer and IOTA community. ***This is suggested only for the interim so that the two treasuries can align after the current committee members have finished their term.***
+The committee will be set up with five members to manage all assests allocated to them by the Shimmer and IOTA community. 
 
-#### 3.1.1 One is the *Program Lead*, which, besides reviewing funding requests, takes care of all administrative tasks and reporting and coordinates the committee member’s work for the IOTA and Shimmer community treasury funds.
+#### 3.1.1 One of the committee members is the *Program Lead*, which, besides reviewing funding requests, takes care of all administrative tasks and reporting and coordinates the committee member’s work for the IOTA and Shimmer community treasury funds.
 
-#### 3.1.1.1 Program Lead Specific to Tangle DAO LLC Roles and Responsibilities
+#### 3.1.1.1 Program leads tasks and responsibilities specific to the operations of the Tangle DAO LLC
 - Ensure that Tangle DAO LLC always maintains an operational legal status.
-- Ensure any binding governance votes by the community do not commit the Tangle DAO LLC to conduct illegal activities or lose its non-profit status. Any community governance proposal that would incite the LLC to lose its registration or non-profit status will be declined. The program lead will be responsible for getting a legal statement from the LLC legal representative and presenting it to the community.
-- The lead will ensure that all payments invoiced or requests to the Tangle DAO LLC are paid and accounted for publicly.
+- Ensure any binding governance votes by the community do not task the Tangle DAO LLC to conduct illegal activities or could lead to lose its non-profit status. Any community governance proposal that would incite the LLC to lose its registration or non-profit status will be declined in the initial proposal process. The program lead will be responsible for getting a legal statement from the LLC legal representative and presenting it to the community in case of an dispute about the decline.
+- The lead will ensure that all payments invoiced or requests to the Tangle DAO LLC are paid out in a timely manner and accounted for publicly.
 - The program lead will ensure that the LLC’s legal documents in the GitHub [Tangle DAO LLC Documentation](https://github.com/Deep-Sea-888/Tangle-DAO-LLC-Documentation) are up-to-date. The lead will also liaise with the LLC legal representative if new legal documents are required.
 - The program lead will maintain the www.TangleTreasury.org website and ensure the domain stays active while correcting any process errors promptly.
-- The program lead will ensure all committee members and/or consultant hours are tracked between the two community treasuries and shown in the public accounting ledger.
-- Act as the signing agent for the Tangle DAO LLC when the community has approved the LLC to bind a contract.
+- The program lead will ensure all committee members and/or consultant hours are tracked seperately between the two community treasuries (IOTA and Shimmer) and shown in the public accounting ledger.
+- The program lead act as the signing agent for the Tangle DAO LLC in case the community approves the LLC to bind a contract(s).
 
-#### 3.1.1.2 Program Lead Specific to Tangle Community Treasury Grant Roles and Responsibilities
-
+#### 3.1.1.2 Program leads tasks and responsibilities specific to the operations of the Tangle Community Treasury grant committees
 - The Lead will promote the program, identify directions for funding, and has a thought leadership role in guaranteeing the program’s success.
-- The Lead keeps a distinct and complete separation of grants and accounting between the IOTA and Shimmer community funds.
-- The Lead is directly involved in grant reviews and decides which reviewers should work on a proposal. 
-- Further, an important part is ongoing coordination with the second ecosystem funding program run by the Tangle Ecosystem Association and the Shimmer Growth Committee to ensure effective alignment in the goals and directions of the community grants program.
-- The Lead will organize bi-weekly treasury working meetings for the committees elected by the IOTA and Shimmer communities. Each week, the program lead will schedule a treasury meeting. Each Treasury will share the hours incurred if committee members represent the IOTA and Shimmer community. When the Tangle Treasury scales and there are two separate, distinct committees, they invoice the hours they incur.
-- The Lead will promptly and transparently complete all financial and asset accountings while showing independent ledgers between the Shimmer and IOTA committees.
-- The Lead will complete quarterly transparent reports for each community and how the community funds were used.
+- The Lead is directly involved in grant reviews and allocates suitable reviewers to work on proposals based on their qualifications and experience. 
+- Further, an important part is the ongoing coordination with the second ecosystem funding program run by the Tangle Ecosystem Association and the initiatives of Shimmer Growth Committee to ensure effective alignment in the goals and directions of the community grants program.
+- The Lead will organize bi-weekly treasury working meetings for the committees elected by the IOTA and Shimmer communities. Each week, the program lead will schedule a treasury meeting. Each Treasury will share the hours incurred if committee members represent the IOTA and Shimmer community.
+- The Lead will promptly and transparently complete all financial and asset accountings while maintaining independent ledgers between the Shimmer and IOTA committees.
+- The Lead will complete quarterly transparent reports for each community on how the community funds were used.
 - The Lead will act as the first public contact for anyone that wants to approach the committee besides funding requests.
-- The Program Lead will be contracted by Marshal Island DAO LLC (to be set up), which acts as the legal body of the program and offers limited liability and the needed legal structure to ensure a safe operation.
-- To establish this contract, the Program Lead shall have a legal entity (company, LLC, GmbH, etc.) set up in its home jurisdiction to engage in agreements and manage the Tangle DAO LLC consultant in the Marshall Islands that registers and maintains the LLC.
-- The Lead will be compensated for his time at USD 70 per hour. The community approved this amount through the community governance vote [Phase III (SGP-0005) Shimmer Community Grant Committee](https://govern.iota.org/t/sgp-0005-shimmer-community-grant-committee/1597).
-- The Tangle DAO LLC will compensate the program lead not to exceed a 40-hours-per-week as a sum of both community treasury committee activities, and they will sign a 12-month service provider contract. Compensation will be paid from the respective “Shimmer Committee USDT budget” and “IOTA Committee USDT budget” based on the submitted hours per committee.
-- The program lead will have 30 days of paid vacation that they may take at their leisure. The program lead must manage the treasury operations and adequately communicate with the co-lead and committee to ensure daily operations can continue smoothly and effectively. Their vacation should not impact the treasury grant committee’s daily activities negatively. The program lead should, if possible, be able to be reached in an emergency. Such time will be split between the two community treasuries evenly for compensation.
-- The program lead will also have paid national holidays for their country; for example, if the Program Lead was registered in Germany, they would have holidays such as New Year’s Day, Ascension Day, Whit Monday, German Unity Day, and others.
+- The Program Lead will be contracted by Marshal Island DAO LLC, which acts as the legal entity of the program and offers limited liability and the needed legal structure to ensure a safe operation.
+- To establish this contract, the Program Lead shall have a legal entity (company, LLC, GmbH, etc.) set up in its home jurisdiction to engage in agreements and manage the Tangle DAO LLC. 
+- The Lead will be compensated for his time at USD 70 per hour.
+- The Tangle DAO LLC will compensate the program lead for a maximum of 40-hours-per-week as a sum of both community treasury committee activities, and both parties will sign a 12-month service provider contract. Compensation will be paid from the respective “Shimmer Committee USDT budget” and “IOTA Committee USDT budget” based on the submitted hours per committee.
 
-#### 3.1.2 The *Grant Reviewers* will process funding requests part-time.
+#### 3.1.2 The *Grant Reviewers* will process funding requests on a part-time basis.
 
 - Each set of committee members (IOTA and Shimmer) operates a 3 of 5 Gnosis multi-signature wallet respective to the community treasury they manage, with a required 3 out of 5 signatures for any operation (like spending funds or adding or removing members).
 - The Lead will assign reviewers to work on proposals based on their qualifications, experience, and availability.
 - Grant reviewers will operate on a service provider contract with the Tangle DAO LLC. 
-- The grant reviewers will be compensated for their time at USD 50 per hour. The community approved this amount through the governance vote (Governance Vote Link Here). Compensation will be paid from the respective “Shimmer Committee USDT budget” and “IOTA Committee USDT budget” based on the submitted hours per committee.
+- The grant reviewers will be compensated for their time at USD 50 per hour. Compensation will be paid from the respective “Shimmer Committee USDT budget” and “IOTA Committee USDT budget” based on the submitted hours per committee.
 - The Tangle DAO LLC will compensate the grant reviewers based on providing a maximum of 10 hours per week, and they will sign a 12-month service provider contract.
 - The committee members will select one of the four reviewers as the **Co-Lead**. The Co-Lead acts on behalf of the Committee Lead in cases of sickness, holidays, or leaving. If the lead resigns, the Co-Lead continues the operation and organizes an election of a new Lead through a community vote.
 - If the Programm Lead is unavailable/sick/on leave and the Co-Lead needs to fill this position, the Co-Lead will be compensated for this extra time at the same rate the program lead receives at $70 per hour and can invoice up to 40 hrs per week during his time filling in for the program lead.
 
 ### 3.2 The Tangle Community Treasury Grant Committee Term
 
-#### 3.2.1 The communities will approve the grant committee through a governance vote annually for 12 months. The term will start on the day when the Firefly vote (Phase 3) results to continue the Tangle DAO LLC and/or Tangle Community Treasury, and the chosen committee members shall be publicly announced. Each year before the end of the approved operating period, the below decisions shall be made by a community governance vote.
+#### 3.2.1 The communities will approve the grant committee through a governance vote annually for 12 months. The term will start on the day when the Firefly vote (Phase 3) results to continue the Tangle DAO LLC and/or Tangle Community Treasury, and the chosen committee members shall be publicly announced. Each year before the end of the approved operating period, the below described decisions shall be made through a community governance vote.
 
-- The communities will decide annually to continue or end the Tangle Community Treasury grant committee through a community governance vote. This governance vote must be initiated a minimum of 6 weeks before the end of the approved period the committee is authorized to operate.
+- The Shimmer and IOTA shall conduct community votes to renew their respective committees for another year and must include include the request for a new budget allocation from the respective community treasuries so that the program can stay operational. These governance votes shall be initiated a minimum of 6 weeks before the end of the approved periods the committees are authorized to operate.
 - The Shimmer and IOTA communities will decide annually to continue or end the Tangle DAO LLC. Only with community independent majority votes between the two communities can the Tangle DAO LLC be closed down or governance decisions be implemented. If both communities do not vote in favor of a change, then the proposal does not pass and is not implemented.
 - If both communities decide not to continue the Tangle Community Treasury grant committee or Tangle DAO LLC, the program and/or co-lead will work together to enable a graceful shutdown of operations and transfer all assets back to the community-controlled wallet addresses. If a specific community (e.g., IOTA or Shimmer) wants to discontinue its committee management, it can do so through its community governance vote.
 - Further, the program and co-lead will ensure all legal obligations, including documentation, forms signed, and any registration fees or required taxes, are paid, and no legal obligations remain with the Marshall Islands. The Tangle Community Treasury and/or Tangle DAO LLC shall meet any legally bound contractual obligations and outstanding payments, while outstanding approved grants shall be funded by the respective community treasury that has approved that grant. The Tangle DAO LLC shall secure all costs for an operational shutdown before transferring all assets back to the community-controlled address or addresses. Suppose there are non-tokenized assets such as real tangible assets or fiat under Tangle DAO LLC control or bank accounts. In that case, such investments will be transferred back to the community as approved by a community governance vote.
@@ -100,7 +101,7 @@ The committee will be set up with five members to manage both funding allocation
 #### 3.2.2 The community may replace members during the program’s period through a governance vote following the process described in the [Shimmer Governance Framework](./the-shimmer-governance-framework.md) and [IOTA Governance Framework](to be inputted later her).
 
 - Need for replacements may occur if committee members cannot dedicate sufficient time to the program. If they ask for a replacement for personal reasons, or if the community has valid concerns about the motivation and professionality of a member or has any proof of fraud, betrayal, or violation of terms.
-- Grant reviewers are free to leave the position based on the terms stated in their contract. The grant receiver shall give a 4-week notice before leaving the committee.
+- Grant reviewers are free to leave the position based on the terms stated in their contract. The grant receiver shall give a 4-week notice to the program lead in written form before leaving the committee.
 - In case of serious violation of terms of the contract, like a breach of NDA, insider trading, or not disclosed conflict of interest, reviewers will be immediately discarded from the committee position by the program or co-lead and removed as signers of the multi-sig wallet.
 - Replacement positions will be offered to the runner-up candidates of the committee selection process (Phase 3 results).
 
@@ -117,13 +118,13 @@ The committee will be set up with five members to manage both funding allocation
 ### 3.4 Selection process for committee members and the Program Lead:
 
 Each year, each community shall have elections and vote for the committee members to represent their community treasury. Acting committee members will choose to submit their nominations or decline the election process for the next year. The election process will follow each communities specifications.
-- [IOTA Election Committee Specification](https://govern.iota.org/t/community-grant-committee-selection-proccess-specification/1436)
-- [Shimmer Election Committee Specification](https://govern.iota.org/t/community-grant-committee-selection-proccess-specification/1436)
+- [Tangle Committee Election Specification](https://Link Here)
 
 ### 3.5 Committee Right to Request For Proposal 
 
 When time passes in which the committee lacks receiving grant proposals for specific areas that support the positive growth of the ecosystem, the committees may issue an RFP (Request For Proposal). The below guidelines shall be followed when submitting RFPs.
 - The committee can post an RFP (Request for Proposal) on the Tangle Community Treasury website.
+- The committee can consult and involve the community to develop RFPs.
 - The RFP must be open and public for a minimum of 30 days.
 - The committee will post all proposals under review that are submitted to the RFP transparently on the website.
 - The committee must review all proposals submitted from the RFP fairly and unbiasedly.
@@ -131,14 +132,14 @@ When time passes in which the committee lacks receiving grant proposals for spec
 ## 4.0 Guiding principles for funding decisions:
 
 1. A proposal must be relevant to the Shimmer or IOTA network and its ecosystem.
-2. A proposal that does not segregate individuals, organizations, or communities based on sex, race, color, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority or majority, property, birth, disability, age or sexual orientation.
+2. A proposal shall not segregate individuals, organizations, or communities based on sex, race, color, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority or majority, property, birth, disability, age or sexual orientation.
 3. The committee will prioritize projects with the highest potential and positive impact on the ecosystem compared to the received funding.
 4. The proposer or team must be capable of delivering the proposed project. Evaluating this is the responsibility of the committee.
-5. All funded projects must be open source (under [MIT](https://opensource.org/licenses/MIT), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [Apache 2.0 license](https://opensource.org/licenses/Apache-2.0)). Projects in development must allow the grant committee to access any private repos for review. These projects will only receive 50% of the proposed budget once they fully open-sourced their code.
+5. All funded projects must be open source (under [MIT](https://opensource.org/licenses/MIT), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [Apache 2.0 license](https://opensource.org/licenses/Apache-2.0)). Projects in development must allow the grant committee to access any private repos for review. These projects will only receive 50% of the grant payment until they fully open-sourced their code.
 6. The requested budget must match industry standards for comparable tasks. If a proposal requests way above fair market value, the committee will dialogue with the team to request adjustments. The committee may reject the proposal or cut the funding to settle at fair market value.
 7. If a project has already received funding from the Tangle Ecosystem Association or other grant funding programs, it cannot receive funding from the Tangle Community Treasury for the exact scope of work. But, the grant committee can grant additional funding for extensions or further developments of such a project.
-8. A proposal that creates any conflict of interest from members of the proposing team or committee members must be reported to the committee lead. Committee members with conflicts of interest cannot process, comment, or vote on a proposal.
-9. Any attempts of Bribery or offer of future payments, token ownership, or compensations/gifts of any form to committee members will immediately cancel a proposal process. Accepted bribes by committee members will lead to the immediate removal of the members from the committee.
+8. A proposal that creates any conflict of interest for committee members must be reported to the committee lead. Committee members with conflicts of interest shall not process, comment, or vote on a proposal.
+9. Any attempts of Bribery or the offer of future payments, token distribution, or compensations/gifts of any form to committee members will immediately cancel a proposal process. Accepted bribes by committee members will lead to the immediate removal of the members from the committee.
 
 ## 5.0 Funding Priorities
 
@@ -196,7 +197,7 @@ Easy and quick access to funding is essential to a successful grant program. Num
 
 The funding tiers will be approved through annual community votes. The below tiers shall be followed for the IOTA and Shimmer community funds.
 
-- **Tier 1 - up to 5.000 USD**: Two reviewers handle the proposal and approve or decline it within two business days after submission. KYC is required for one member of the project teams (the Grant submitter needs to do KYC and be a signer). The reviewers will decide based on the provided data in the application and especially consider if the submitter has a positive history in our community. As soon as funding is approved, the proposal will be funded within two business days after KYC is completed.
+- **Tier 1 - up to 5.000 USD**: Two reviewers handle the proposal and approve or decline it within two business days after submission. KYC is required for one member of the project teams (the Grant submitter needs to do KYC and be a signer). The reviewers will decide based on the provided data in the application and especially consider if the submitter has a positive history in our community.
 - **Tier 2 - Regular Tier 5.000 - 50.000 USD**: Two reviewers review the proposal. KYC is required for one member of the project teams (the Grant submitter needs to do KYC and be a signer). Projects considered to be approved can be invited to conduct a 1-hour interview with the reviewers of the proposal. A minimum of two milestones will be defined, and payments will happen based on these milestones. After completing the KYC process, the committee can pay up to 50% of the requested funding upfront.
 - **Tier 3: Regular Tier 50.000 - 200.000 USD**: Same requirements as the previous tier apply. The Project Team must do KYC (3 members do KYC, including the Grant submitter and Project Team Lead, that will be the signer and the 3rd Person decided by the Grant Committee Lead). Additionally, applications need approval by the entire grant committee. Projects considered to be approved will be invited to present the idea in an extensive live interview with two grant reviewers and the Program Lead. A minimum of three milestones are defined, and payments happen based on these milestones.
 
@@ -208,7 +209,7 @@ The funding tiers will be approved through annual community votes. The below tie
 
 ### 6.2 Application and scoring process
 
-Grant submitters shall complete the online [web form](https://airtable.com/appx7Gub4vER8KPMV/shr6LF9o6jNAOgIbm) on www.TangleTreasury.org. Additional grant submitters should also submit an attached proposal. The committee provides a [template](https://docs.google.com/document/d/1thG3OukVMz9UMxlWHGMdUfmMizI0n1iA/edit) for any submitters that don’t have a custom form themselves.
+Grant submitters shall complete the online [web form](https://airtable.com/appx7Gub4vER8KPMV/shr6LF9o6jNAOgIbm) on www.TangleTreasury.org. In addition to the submittal form, grant submitters should also submit the proposal as an attached document. The committee provides a [template](https://docs.google.com/document/d/1thG3OukVMz9UMxlWHGMdUfmMizI0n1iA/edit) for any submitters that don’t have a custom form themselves.
 
 #### Grant evaluation scoring system:
 
@@ -216,7 +217,7 @@ Grant reviewers will use a scoring system to evaluate funding proposals. The bel
 
 | **Scoring Qualities**                         | Summary                                                                                                                                                     | **Guiding Questions**                                                                                                                                                                              | **Rating**                                                                                                                         |  
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | 
-| **Relevance to the ecosystem**| Evaluate how the project aligns with Shimmer and/or IOTA, its commitment to building on the Shimmer and/or IOTA Network, and how it contributes to the ecosystem.   | How is the project contributing to developing or growing the IOTA and/or Shimmer ecosystem? Does the project utilize the Shimmer and/or IOTA network, or does it plan to integrate it in the future? Does the project align with Shimmer’s and/or IOTA’s objective of supporting digital autonomy and verifiable data?   |Rating (1 to 4)  | 
+| **Relevance to the ecosystem**| Evaluate how the project aligns with Shimmer and/or IOTA, its commitment to building on the Shimmer and/or IOTA Network, and how it contributes to the ecosystem.   | How is the project contributing to developing or growing the IOTA and/or Shimmer ecosystem? Does the project utilize the Shimmer and/or IOTA network, or does it plan to integrate it in the future? Does the project align with Shimmer’s and/or IOTA’s objective of supporting digital autonomy for everyone?   |Rating (1 to 4)  | 
 | **Plan and Funding Model**| Assesses the project’s potential short-term and long-term effects regarding the Shimmer and/or IOTA ecosystem and the broader crypto and Web3 environment. | What short-term and long-term impact will the project have on the Shimmer and/or IOTA ecosystem? How does the project enhance the value or reputation of Shimmer within the broader crypto and Web3 environment? Does the project plan to measure their impact on the ecosystem, and if so, how?|Rating (1 to 4)    |                                            
 | **Execution**| Analyze the relative expertise, trustworthiness, and suitability of the project team to complete the project successfully. Examine the team’s skill set, expertise, experience, and track record in delivering similar projects. |What is the team’s background, experience, and track record in delivering similar projects? Does the team have the necessary skills and expertise to execute the project successfully? Are the team members verifiable or willing to KYC? Do the team members have a public identity (regardless of being shared or anonymous) known to the community and have developed a positive reputation?   |Rating (1 to 4)   | 
 |**Verifiability and Quality of the Team** |Considers the practicality of the proposal’s budget, taking into account the project’s goals, deliverables, long-term financial sustainability, and financial management to ensure that the project is not only an initial success but also the long-term viability of the project.|How is the proposed budget allocated across the different project activities? Is the budget justified, considering the project’s deliverables and timeline? Does the team have a realistic understanding of the costs associated with executing the project? Does the project have a plan for financial sustainability after the grant funds are exhausted? How does the project plan to generate revenue or attract further investment? Does the project’s business model demonstrate potential for long-term success? Does the project deliver substantial value in relation to the funding it’s asking for? How does the project balance its costs against its benefits to the Shimmer and/or ecosystem? How does the project ensure efficient use of resources to maximize its impact?   |Rating (1 to 4)    |                                                              
@@ -231,9 +232,9 @@ A project should reach a particular score to be eligible for certain funding Tie
 
 ### 6.3 Possible Extra Scoring Points:
 
-- Projects offer 0,5% of the project’s total token supply to the community Treasury: *One extra point can be granted.*
-- Projects offer 1% of the total token supply to the community Treasury: *Two extra points can be granted.*
-- Projects offer more than 1,5% of the project’s total token supply to the community Treasury: *Three extra points can be granted.*
+- Projects that offer 0,5% of the project’s total token supply to the community Treasury: *One extra point can be granted.*
+- Projects that offer 1% of the total token supply to the community Treasury: *Two extra points can be granted.*
+- Projects that offer more than 1,5% of the project’s total token supply to the community Treasury: *Three extra points can be granted.*
 
 *This does not imply that automatically such an offer will lead to granting the extra points. Granting these additional points is decided on a case-by-case basis.*
 
@@ -243,8 +244,8 @@ We reserve the ability to place specific projects into different tiers even if p
 
 ### 6.4 Grant Acceptance Contract Criteria
 
-The committees shall have all grant receivers sign a grant receiver agreement for approved grants before funding. The agreements can be found in the [Tangle DAO LLC repository](https://github.com/Tangle-Community-Treasury-DAO/Tangle-DAO-LLC-Documentation) linked in the Tangle Community Treasury DAO Github. The committee and program lead shall make contracts with the LLC legal representative specific to the grant submission. Such grant contractual frameworks may be but are not limited to the following.
-- No repayment grant for specific deliverables
+The committees shall have all grant receivers sign a grant receiver agreement for approved grants before funding. The agreements can be found in the [Tangle DAO LLC repository](https://github.com/Tangle-Community-Treasury-DAO/Tangle-DAO-LLC-Documentation) linked in the Tangle Community Treasury DAO Github. The committee and program lead shall make contracts with the legal representative specific to the grant submission. Such grant contractual frameworks may be but are not limited to the following.
+- Standard grants that do not require repayment.
 - Temporary loan with terms to projects that do not have access to their liquidity.
 - Liquidity support in exchange for specifically defined terms.
 - Grant funding in exchange for equity or other terms defined by the committee. 
@@ -253,28 +254,33 @@ The above are just examples listed, though the committee and program lead may de
 
 ### 6.5 Grant Transparency
 
-All grants will be shown publicly and transparently to the community through the www.TangleTreasury.org website. Grants will be visible when they are under review, and their results upon completion when the committee finishes its assessment. All grant receivers and community members are free to contact the committee, particularly the Program lead, with questions or discussions at any time”.
+All grants will be shown publicly and transparently to the community through the www.TangleTreasury.org website. Grants submission will be visible once they are under review, and the reviewed results will be published upon completion once the committee finishes its assessment. All grant receivers and community members are free to contact the committee, particularly the Program lead, with questions or discussions at any time”.
 
-The Tangle DAO LLC will transparently host a database through the www.TangleTreasury.org website. On this or any future website(s), all proposals shall be transparently listed, and a running accounting sheet that can be publicly audited to show the Tangle Community Treasuries assets and value transactions.
+The Tangle DAO LLC will transparently host a database through the www.TangleTreasury.org website. On this or any future website(s), all proposals shall be transparently listed, and it will host a running accounting sheet that can be publicly audited to show the Tangle Community Treasuries assets and value transactions.
 
 ## 7.0 Idle Community Treasury Funds
 
 ### 7.1 Committee Investing Role and Responsibility
 
-The committee shall have a role and responsibility to manage idle funds to support the community and protect the communities treasury funds. Below are the guidelines in which each community committee can invest idle assets respective to the community treasury they have been appointed to manage.
+The committee shall have a role and responsibility to manage funds that are not paid out in grants. These funds are sitting in the treasury not earning yield or supporting the ecosystems. To support the ecosystem and manage communities treasury funds the below are the guidelines in which each community committee can invest unused assets respective to the community treasury they have been appointed to manage.
 
 ### 7.1.1 Committee Investing Responsibilities - IOTA Committee Specific
 
-The IOTA committee shall manage 33% of the year’s allocated assets for grant funding through investing activities. These investing activities should be completed as short-term investments so that the committee can access the funds and use them for grant funding by the end of the committee’s annual term. The purpose of these funds is to fund grants during the approved term; thus, investment of any idle assets shall be made in the short term. The below requirements must be followed when investing idle assets.
+The IOTA committee can, if they so choose, manage up to 33% of the year’s allocated assets for grant funding through investing activities. These investing activities should be completed as short-term investments so that the committee can access the funds in a reasonably short time frame and use them for grant funding at any time the need to fund a proposal requires the currently invested assets by the end of the committee’s annual term. The primary purpose of the grant committees budget at any time is to fund ecosystem grants during the approved term; thus, investment of any unused assets shall be made in the short term. The below requirements must be followed when investing idle assets.
 - The program and/or co-lead must ensure any investing activities are allowed legally by the Tangle DAO LLC and the Marshall Islands.
 - Any investing decision must be completed through a majority vote of the committee with the program leads approval.
 - The program lead can only reject a favorable majority committee vote if the investing activity is not legal or potentially may cause the Tangle DAO LLC to lose its non-profit status.
 - The program lead will ensure any investing activities that may potentially affect the Tangle DAO LLC to lose its legal non-profit status are reviewed by the LLC’s legal representative.
-- Any approved investing activity must be shown publicly to the community and expressed in the weekly governance vote before being actioned.
+- Any approved investing activity must be shown publicly to the community and expressed in the weekly governance meeting before being actioned.
 - The program lead will assign an investing manager for each investing activity. The lead can act as the manager themselves.
+- An investing manager will be similar to a grant manager which is a designated committee member with the below responsibilities.
+    - Stay up-to-date with the investment and activities.
+    - Relay updates to the committee during weekly treasury meetings.
+    - If there is a communication which a project team or representative, the designated manager will be the point of contact.
+    - The investment manager holds no financial qualification but strictly reports summaries and acts as a liason between the committee and the parties involved with the investment.
 - Each investing activity will be reviewed bi-weekly during the treasury working meetings.
 - Each investment must be made in a way it supports the growth of the ecosystem and affects the community in a positive way.
-- At the time of liquidation or closure of such investments, the committee shall make such actions that do not negatively affect community members and the project.
+- At the time of liquidation or closure of such investments, the committee shall make such actions that do not negatively affect the community treasuries, and secondly, do not afect the project associated with the investment.
 - Any profits generated from investment activities shall be used to support the mission of the Tangle Community Treasury as stated in the first paragraph of 3.0 Specification of this document.
 - All investing activities shall be actively and transparently shown on the website and summarized with quarterly reports by the program and/or co-lead.
 - Investing activities shall only be conducted with IOTA-specific projects or applications. 
@@ -282,38 +288,42 @@ The IOTA committee shall manage 33% of the year’s allocated assets for grant f
 
 ### 7.1.2 Committee Investing Responsibilities - Shimmer Committee Specific
 
-The Shimmer committee shall manage 50% of the year’s allocated assets for grant funding through investing activities. Such idle assets should be done in a short time frame so such assets, and if any, profits can be used for grant funding by the end of the committee’s term. The purpose of these funds is to fund grants during the approved term; thus, investment of any idle assets shall be made in the short term. The below requirements must be followed when investing idle assets.
+The Shimmer committee can, if they so choose, manage up to 50% of the year’s allocated assets for grant funding through investing activities. These investing activities should be completed as short-term investments so that the committee can access the funds in a reasonably short time frame and use them for grant funding at any time the need to fund a proposal requires the currently invested assets by the end of the committee’s annual term. The primary purpose of the grant committees budget at any time is to fund grants during the approved term; thus, investment of any idle assets shall be made in the short term. The below requirements must be followed when investing idle assets.
 - The program and/or co-lead must ensure any investing activities are allowed legally by the Tangle DAO LLC and the Marshall Islands.
 - Any investing decision must be completed through a majority vote of the committee with the program leads approval. A vote is only valid when four members vote, and there is a minimum of three votes in favor of the investment proposal.
 - The program lead can only reject a favorable majority committee vote if the investing activity is not legal or potentially may cause the Tangle DAO LLC to lose its non-profit status.
 - The Tangle DAO LLC legal representative must review any approved committee investing activity before being actioned.
-- Any approved investing activity must be shown publicly to the community and expressed in the weekly governance vote before implementation.
-- The program lead will assign an investing manager for each investing activity. The lead can act as the manager. Such a manager will simply keep up-to-date and provide summaries to the committee.
+- Any approved investing activity must be shown publicly to the community and expressed in the weekly governance meeting before implementation.
+- An investing manager will be similar to a grant manager which is a designated committee member with the below responsibilities.
+    - Stay up-to-date with the investment and activities.
+    - Relay updates to the committee during weekly treasury meetings.
+    - If there is a communication which a project team or representative, the designated manager will be the point of contact.
+    - The investment manager holds no financial qualification but strictly reports summaries and acts as a liason between the committee and the parties involved with the investment.
 - Each investing activity will be reviewed bi-weekly during the treasury working meetings.
 - Each investment must be implemented in a way that supports the growth of the ecosystem and affects the community in a positive way.
-- At the time of liquidation or closure of such investments, the committee shall make actions that do not negatively affect community members and the project.
+- At the time of liquidation or closure of such investments, the committee shall make such actions that do not negatively affect the community treasuries, and secondly, do not afect the project associated with the investment.
 - Any profits generated from investment activities shall be used to support the mission of the Tangle Community Treasury, which is to support the Shimmer network while empowering the ecosystems through grant funding.
 - All investing activities shall be actively and transparently shown on the website and summarized with quarterly reports by the program and/or co-lead.
 - Investing activities shall only be conducted with Shimmer-specific projects or applications. 
 - Investing activities should focus on DEFI applications and, if possible, support liquidity pools. Investments shall attempt to maintain a low-risk profile; however, they may be allowed to invest with a medium-risk profile.
 
-## 8.0 Complaint process:
+## 8.0 Complaint Process For Grant Submission:
 
-Should a project feel it has been treated unjustly by a decision of the grant committee, it should first contact the Programm Lead and try to resolve the issue. Suppose the project representative needs to reach a successful resolution. In that case, they can open a complaint thread in the Governance forum at www.govern.iota.org and explain the reasons for the complaint while being professional and respectful to the community.
+Should a project feel it has been treated unjustly by a decision of the grant committee on their grant submission, it should first contact the Programm Lead and try to resolve the issue. Suppose the project representative needs to reach a successful resolution. In that case, they can open a complaint thread in the Governance forum at www.govern.iota.org and explain the reasons for the complaint while being professional and respectful to the community.
 If a Grant Reviewer is also a Governance Forum Moderator, this moderator is excluded from any moderation activities in this specific forum conversation.
 
 ## 9.0 The Budget (IOTA and Shimmer Communities)
 
 ### 9.1 Budget for 12 months of operation
 
-- The budget for the IOTA elected committee spending from the time this revision is approved and until the end of the 2024/2025 election term shall be 10.000.000 MIOTA to spend on grants and cover all operational costs.
-- The Budget for the Shimmer elected committee spending during 12 months is 15% of the SMR community Treasury tokens currently held in this address. Fifteen percent of this 181.362.051 SMR will be 27.204.307 SMR available for the committee to spend on grants and cover all operational costs.
-- The Budget for the IOTA or Shimmer committee spending during the 12 months of operation shall be decided annually by the individual communities through a governance vote. All disbursements from the community treasuries to the Tangle DAO LLC through individual Governance votes will be listed in a public address and on a financial audit log on the www.TangleTreasury.org website.
+- The budget for the IOTA elected committee spending from the time this revision is approved and until the end of the 2024/2025 terming endind on 31 March, 2025 shall be 10.000.000 MIOTA to spend on grants and cover all operational costs.
+- The Budget for the Shimmer elected committee spending during 12 months of their elected term ending on 31 Mar, 2024 is 15% of the SMR community Treasury tokens currently held in this address. Fifteen percent of this 181.362.051 SMR will be 27.204.307 SMR available for the committee to spend on grants and cover all operational costs.
+- The new Budget for the IOTA or Shimmer committee spending during the 12 months of operation shall be decided annually by the individual communities through a governance vote. All disbursements from the community treasuries to the Tangle DAO LLC through individual Governance votes will be listed in a public address and on a financial audit log on the www.TangleTreasury.org website.
 - The committee will manage the assets provided from the IOTA or Shimmer Community Treasury to the Tangle DAO LLC by a purpose-bound allocation from the community using a MultiSig Wallet with a 3 of 5 signature approval process. Each committee will operate its multi-sig wallets on their respective native chains (e.g., the IOTA EVM or Shimmer EVM)
 - The committee will pay monthly salaries in USDT or USDC when available. It shall follow the [liquidation process](https://github.com/Tangle-Community-Treasury-DAO/Tangle-DAO-LLC-Documentation/blob/main/Liquidation%20Process%20-%20V1.md). It shall be allowed for the committee to issue other assets as payments for wages if committee members so request it. Such assets shall only be assets the committees are responsible for managing and shall be liquidated following the process. The committee will always record such value transactions publicly on the Tangle Community treasury website.
-- The committee shall liquidate the IOTA and Shimmer treasury assets into USDT or USDC for grant payouts. The Program Lead will manage the Treasury’s finance forecasting quarterly and bi-annual grant payouts to avoid risks of market volatility so that negative price impacts do not affect grant receivers and the Treasury’s operational costs. During necessary times the program lead can decide to make grant payouts in $SMR or $Miota during exceptional circumstances when $USDT or $USDC can not be accessed. All grant payouts are always paid out with the treasury assets to which the grants were submitted.
-- The committee shall liquidate the treasury assets to pay for non-salary operational costs such as, but not limited to, the Marshall Islands registration fees, legal fees, KYC fees, and other operating expenses. Such costs specific to the Tangle DAO LLC shall be shared evenly between the IOTA Community assets and the Shimmer community assets. At the end of the committee’s term, the program lead will conduct a financial forecast for the coming year, including an extra $50,000 USDT/USDC for the IOTA and Shimmer committee unknown non-salary operating costs.
-- The Program or co-lead will promptly create public quarterly transparent reports for each community and issue them publicly within 45 days, preferably two weeks.
+- The committee shall liquidate the IOTA and Shimmer treasury assets into USDT or USDC for grant payouts. The Program Lead will manage the Treasury’s finance forecasting quarterly and bi-annual grant payouts to avoid risks of market volatility so that negative price impacts do not affect grant receivers and the Treasury’s operational costs. During necessary times the program lead can decide to make grant payouts in $SMR or $Miota during exceptional circumstances when $USDT or $USDC can not be accessed. All grant payouts are always paid out with the treasury respective networks assets to which the grants were submitted.
+- The committee shall liquidate treasury assets to pay for non-salary operational costs such as, but not limited to, the Marshall Islands registration fees, legal fees, KYC fees, and other operating expenses. Such costs specific to the Tangle DAO LLC shall be shared evenly between the IOTA Community assets and the Shimmer community assets. At the end of the committee’s term, the program lead will conduct a financial forecast for the coming year, including an extra $50,000 USDT/USDC for the IOTA and Shimmer committee unknown non-salary operating costs.
+- The Program or co-lead will promptly create quarterly transparent reports for each community and issue them publicly within 45 days, preferably two weeks.
 - Any excess assets left in either of the committee’s MultiSig Wallets at the end of the committee’s term shall be determined by and included in the annual governance election vote per community. The program lead shall be tasked to gather a summary of any tax or legal implication on such assets and present them to the community within the annual governance vote. If the IOTA and/or Shimmer community decides not to continue the program, those community’s assets will be sent back to their respective Community Treasury controlled wallet.
 
 ## 10.0 The legal entity
@@ -343,8 +353,6 @@ The committee will provide reports on these metrics every six months.
 
 If the community decides to approve the Tangle Community Treasury for another year of operation, the members of the Treasury committee can then begin daily activities. Even if we now think that we have designed a comprehensive and very well-working set of rules under which the committee members can carry out operating the Tangle Community Treasury operations and manage the Tangle DAO LLC, the committee members may conclude that specific points described in this framework need revising to function better and more effectively.
 
-The committee members will be the only ones who can correctly identify the need for such changes. Therefore, we would limit the group of Persons that can propose changes to the specifications described in the document to the elected Committee members of their respective communities.
-
 Committee members can only propose revisions to framework parts specific to their community (e.g., IOTA or Shimmer Committee). Both committees must be decided through governance votes in the respective network for any proposed revisions that affect both communities.
 
 ### 12.2 Revision by Communities
@@ -366,7 +374,3 @@ The communities, independent of each other or together, can submit a governance 
    - Proposal to manage additional assets for the community by a purpose-bound directive given to the Tangle DAO LLC 
 
 All changes to other points described under this specification of this document can only be proposed by a member of the Tangle Community Treasury Committee (Programm Lead and the four elected Grant Reviewers) through a public proposal in the IOTA Governance forum following the process laid out in the ***IOTA and Shimmer Governance Framework*** if an issue affects both community treasuries or the Tangle DAO LLC. Then both communities must vote in parallel and reach a majority.
-
-All changes to other points described under this specification of this document can only be proposed by a member of this Shimmer Community Treasury Committee (Programm Lead and the four elected Grant Reviewers) through a public proposal in the Governance forum following the process laid out in the ***Shimmer Governance Framework***.
-
-
