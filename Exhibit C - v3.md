@@ -14,7 +14,8 @@ In this Agreement:
 
 **“Committee Members”** The elected members act as program lead, co-lead, and reviewers of the community treasuries grant program. Each community (e.g., the IOTA  or Shimmer community) elects members to represent them to manage the funding allocated to the Tangle Community Treasuries for grant funding. Committee members can represent both communities if both communities elect them. A visual representation is shown below in this organizational chart.
 
-![Screenshot 2024-02-19 095305](https://hackmd.io/_uploads/ByIcw-Z2T.png)
+![Screenshot 2024-02-19 095305](https://github.com/Deep-Sea-888/Operation-Agreement/assets/83830073/54af4965-3e0b-4b36-9d59-93eea780283d)
+
  
 **“IOTA Community”** Within the context of this document the IOTA Community encompassess individuals that have voting power through holding IOTA tokens and whom which can take part in community governance votes.
 
